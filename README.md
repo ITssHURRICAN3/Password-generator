@@ -1,5 +1,5 @@
 # Password-generator
-Hi, HURRICAN3 here. This is a little project i made recently and it shows how you can create a variable lenght password using python.
+This is a little project i made recently and it shows how you can create a variable lenght password using python.
 
 First of all we import random to generate random positions for our password and pyperclip to instanly copy to out clipboard the password generated.
 
